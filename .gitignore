@@ -1,0 +1,13 @@
+/build/
+/work/
+/installed*/
+/vcpkg*/
+/vcpkg_installed*/
+
+.vscode/
+
+.antlr/
+src/parser/
+
+*.exe
+*.zip
