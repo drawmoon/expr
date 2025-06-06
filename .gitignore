@@ -1,0 +1,12 @@
+.ruff_cache/
+.vscode/
+.antlr/
+
+build/
+work/
+vcpkg/
+vcpkg_installed/
+src/parser/
+
+*.exe
+*.zip

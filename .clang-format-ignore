@@ -1,0 +1,4 @@
+src/parser
+build
+vcpkg
+vcpkg_installed
